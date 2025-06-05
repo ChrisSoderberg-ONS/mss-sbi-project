@@ -1,5 +1,6 @@
 folium
 geopandas
+ghp-import
 jupyter-book
 matplotlib
 notebook
