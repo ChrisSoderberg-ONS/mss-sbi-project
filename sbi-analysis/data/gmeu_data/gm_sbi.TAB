@@ -1,0 +1,36 @@
+!table
+!version 700
+!charset WindowsLatin1
+
+Definition Table
+  Type SHAPEFILE Charset "WindowsLatin1"
+  Fields 7
+    Site_nam Char (60) ;
+    Site_id Char (5) ;
+    Cent_gr Char (21) ;
+    Site_gra Char (1) ;
+    District Char (15) ;
+    Features Char (254) ;
+    Date_est Date ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 8, 79, ""m"", -2, 49, 0.9996012717, 400000, -100000 Bounds (0, -100000) (2000000, 1900000)"
+"\DefaultStyles" = ""
+"\DefaultStyles\Pen" = ""
+"\DefaultStyles\Pen\LineWidth" = "2"
+"\DefaultStyles\Pen\LineStyle" = "0"
+"\DefaultStyles\Pen\Color" = "16711680"
+"\DefaultStyles\Pen\Pattern" = "2"
+"\DefaultStyles\Brush" = ""
+"\DefaultStyles\Brush\Pattern" = "1"
+"\DefaultStyles\Brush\Forecolor" = "16777215"
+"\DefaultStyles\Brush\Backcolor" = "16777215"
+"\DefaultStyles\Brush\Transparent" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "00695250-528f-42f3-b1cb-ba982ffbbea4"
+end_metadata
