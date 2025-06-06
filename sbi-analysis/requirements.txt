@@ -2,6 +2,7 @@ folium
 geopandas
 ghp-import
 jupyter-book
+mapclassify
 matplotlib
 notebook
 numpy
