@@ -3,6 +3,8 @@ Repository for the Manchester Summer School 2025 data science project on Sites o
 
 This project is built using Jupyter Book and deployed with GitHub Pages.
 
+The link to the deployed website is here: https://chrissoderberg-ons.github.io/mss-sbi-project
+
 ## Contributing guidance
 
 To contribute to this project:
@@ -11,7 +13,7 @@ To contribute to this project:
 2. `git clone` to clone the repository to your local machine
 3. Create a Python virtual environment and install the dependencies via `pip install -r requirements.txt`
 4. Add your virtual environment to IPython so that you can develop in Jupyter Notebooks / JupyterLab: `ipython kernel install --name=<env name>`
-5. Make your local modifications and check the book can build using `jupyter-book build mss-sbi-project`
+5. Make your local modifications and check you can build the book using `jupyter-book build sbi-analysis`
 6. Commit and push your changes to the remote
 7. Open a pull request to merge your changes
 
@@ -22,6 +24,7 @@ To contribute to this project:
 - [GitHub](https://docs.github.com/en/get-started)
 - [Jupyter](https://docs.jupyter.org/)
 - [JupyterBook](https://jupyterbook.org/)
+- [Shapely](https://shapely.readthedocs.io/)
 
 ## Data sources
 
