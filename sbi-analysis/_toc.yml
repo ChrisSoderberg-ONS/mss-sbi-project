@@ -3,3 +3,6 @@
 
 format: jb-book
 root: introduction
+chapters:
+ - file: example-notebook
+ - file: example-markdown
