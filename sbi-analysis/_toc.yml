@@ -4,5 +4,5 @@
 format: jb-book
 root: introduction
 chapters:
- - file: example-notebook
- - file: example-markdown
+ - file: preliminary-analysis
+ - file: mapping-sites-at-risk
