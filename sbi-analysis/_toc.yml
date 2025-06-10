@@ -4,6 +4,11 @@
 format: jb-book
 root: introduction
 chapters:
+<<<<<<< HEAD
  - file: example-notebook
  - file: example-markdown
  - file: matt-analysis-nb
+=======
+ - file: preliminary-analysis
+ - file: mapping-sites-at-risk
+>>>>>>> 39117d2881372eadcf5201fa1ce5b21cc0fa00f1
