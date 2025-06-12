@@ -1,5 +1,5 @@
 # Preserving Biodiversity: The Role of SBIs
-## Why Site of Biological Importance (SBIs) Matter
+## Why Sites of Biological Importance (SBIs) Matter
 **1. Biodiversity Conservation:** SBIs protect habitats that support diverse plant and animal species, contributing to ecological balance.
 
 **2. Ecological Corridors:** They connect larger habitats, facilitating wildlife movement and enhancing genetic diversity.
