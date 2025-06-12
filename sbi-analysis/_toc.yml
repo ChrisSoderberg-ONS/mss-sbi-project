@@ -4,5 +4,6 @@
 format: jb-book
 root: introduction
 chapters:
+ - file: justification
  - file: preliminary-analysis
  - file: mapping-sites-at-risk
