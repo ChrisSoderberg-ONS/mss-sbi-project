@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Spatial Analysis of Planning Applications and Sites of Biological Interest in Greater Manchester
-author: Manchester Summer School Group X
+author: Dolapo Bamidele, Matthew Eyre, Ella Stubbings
 logo: mcrbee.png
 
 # Force re-execution of notebooks on each build.
